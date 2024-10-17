@@ -1,0 +1,9 @@
+[package]
+name = "voting_machine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rusqlite = "0.26"  # Check for the latest version on crates.io
+rpassword = "7.3"   # Use an available version
+
